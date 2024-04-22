@@ -218,5 +218,12 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
+<h2>Exact input and output</h2>
+
+<img width="850" alt="tic toc toe1" src="https://github.com/Ganesh23013987/19AI405ExpNo7/assets/147473768/dd69c4cb-cafb-4bf2-9c4c-b3d7387dcb08">
+<img width="850" alt="tic toc toe 2" src="https://github.com/Ganesh23013987/19AI405ExpNo7/assets/147473768/a3d4d434-3ba9-4bfb-b1e5-035893233c0c">
+
+
+
 ## RESULT
 The program code is successfully runned and executed. 
